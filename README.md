@@ -2,6 +2,7 @@
 A tool for calculating follow set
 
 Input example:
+
 S BCD|E
 
 B b|;
@@ -26,7 +27,9 @@ E e
 
 END_OF_FIRST_SET
 
+
 Output example:
+
 B cd
 
 C d
